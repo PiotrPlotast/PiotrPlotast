@@ -1,5 +1,6 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=Pietrelll)
+<img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
+![](https://komarev.com/ghpvc/?username=Pietrelll&style=for-the-badge)
 <!--
 **Pietrelll/Pietrelll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
