@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning: accessibilitt, sass, typescript, react, tailwind
+- 🌱 I’m currently learning: accessibility, sass, typescript, react, tailwind
 - 🔭 I’m currently working on Frontend Mentor projects. My profile -> https://www.frontendmentor.io/profile/Pietrelll
 - 📫 How to reach me: Discord -> pietrell 
 <!--
