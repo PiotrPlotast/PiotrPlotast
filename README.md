@@ -1,7 +1,8 @@
 ### Hi there 👋
-- 🌱 I’m currently learning: accessibility, sass, typescript, react, tailwind
+- 🌱 I’m currently learning: accessibility, typescript, react, tailwind
 - 🔭 I’m currently working on Frontend Mentor projects. My profile -> https://www.frontendmentor.io/profile/Pietrelll
-- 📫 How to reach me: Discord -> pietrell 
+- 📫 How to reach me: Discord -> pietrell
+- Feel free to contact me!
 <!--
 **Pietrelll/Pietrelll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
