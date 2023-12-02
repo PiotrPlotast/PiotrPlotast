@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piotrplotast" alt="piotrplotast" /></a> </p>
 
-- 🔭 I’m currently working on [Frontend Mentor projects, My portfolio](https://www.frontendmentor.io/profile/Pietrelll)
+- 🔭 I’m currently working on [Frontend Mentor projects](https://www.frontendmentor.io/profile/Pietrelll), my portfolio, [iCodeThis projects](https://icodethis.com/Pietrell)
 
 - 🌱 I’m currently learning **React, Tailwind, Computer Science**
 
