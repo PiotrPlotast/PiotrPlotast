@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
-- 🤝 I’m looking for help with **learning: React, Tailwind**
+- 🤝 I’m looking for help with **learning: React**
 
 - 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/Pietrelll](https://www.frontendmentor.io/profile/Pietrelll)
 
