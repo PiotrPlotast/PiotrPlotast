@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Frontend Mentor projects](https://www.frontendmentor.io/profile/Pietrelll), [iCodeThis projects](https://icodethis.com/Pietrell), my portfolio
 
-- 🌱 I’m currently learning **React, Tailwind, Computer Science**
+- 🌱 I’m currently learning **React, advanced JS, UI/UX**
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
