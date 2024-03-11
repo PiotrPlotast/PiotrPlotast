@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piotrplotast" alt="piotrplotast" /></a> </p>
 
-- 🔭 I’m currently working on [Frontend Mentor projects](https://www.frontendmentor.io/profile/PiotrPlotast), [iCodeThis projects](https://icodethis.com/Pietrell), my portfolio
+- 🔭 I’m currently working on [Frontend Mentor projects](https://www.frontendmentor.io/profile/PiotrPlotast), [iCodeThis projects](https://icodethis.com/Pietrell), React Apps
 
 - 🌱 I’m currently learning **React, advanced JS, UI/UX**
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **learning: React**
 
-- 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/Pietrelll](https://www.frontendmentor.io/profile/Pietrelll)
+- 👨‍💻 All of my projects are available here at my github profile
 
 - 📝 I regularly write articles on [coming soon](coming soon)
 
