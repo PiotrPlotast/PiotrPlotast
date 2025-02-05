@@ -34,5 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piotrplotast&show_icons=true&locale=en&layout=compact" alt="piotrplotast" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piotrplotast&show_icons=true&locale=en" alt="piotrplotast" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piotrplotast&" alt="piotrplotast" /></p>
