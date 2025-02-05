@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piotrplotast" alt="piotrplotast" /></a> </p>
 
-- 🔭 I’m currently working on [Frontend Mentor projects](https://www.frontendmentor.io/profile/PiotrPlotast), React Apps
+Hello, my name is Piotr. I'm 19 years old, but my passion for computers and programming has been growing since my childhood. Everyday I am learning new things that I need to become a successful developer. My goal in 2025 is to get first job in tech, so if you have any offer or know anyone that may have one, please share it with me. 
+
+- 🔭 I’m currently working on [Frontend Mentor projects](https://www.frontendmentor.io/profile/PiotrPlotast), Making Full-Stack Apps.
 
 - 🌱 I’m currently learning **React, Node.Js, UI/UX**
 
