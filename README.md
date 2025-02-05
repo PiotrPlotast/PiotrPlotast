@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pietrell</h1>
-<h3 align="center">A passionate wannabe Full-Stack Developer from Poland</h3>
+<h3 align="center">A passionate Junior Full-Stack Developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piotrplotast&label=Profile%20views&color=0e75b6&style=flat" alt="piotrplotast" /> </p>
 
@@ -7,22 +7,18 @@
 
 - 🔭 I’m currently working on [Frontend Mentor projects](https://www.frontendmentor.io/profile/PiotrPlotast), React Apps
 
-- 🌱 I’m currently learning **React, advanced JS, UI/UX**
+- 🌱 I’m currently learning **React, Node.Js, UI/UX**
 
-- 👯 I’m looking to collaborate on **Frontend projects**
+- 👯 I’m looking to collaborate on **Full-Stack projects**
 
-- 🤝 I’m looking for help with **learning: React**
+- 🤝 I’m looking for help with **Getting into tech in 2025**
 
-- 👨‍💻 All of my projects are available here at my github profile
-
-- 📝 I regularly write articles on [coming soon](coming soon)
+- 👨‍💻 All of my projects are available here at my github profile!
 
 - 💬 Ask me about **HTML, CSS, JS, Tailwind, React**
 
 - 📫 How to reach me **discord: pietrell**
-
-- 📄 Know about my experiences [coming soon](coming soon)
-
+- 
 - ⚡ Fun fact **I like both dogs and cats.**
 
 <h3 align="left">Connect with me:</h3>
