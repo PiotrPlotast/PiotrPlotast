@@ -20,7 +20,7 @@ Hello, my name is Piotr. I'm 19 years old, but my passion for computers and prog
 - 💬 Ask me about **HTML, CSS, JS, Tailwind, React**
 
 - 📫 How to reach me **discord: pietrell**
-- 
+ 
 - ⚡ Fun fact **I like both dogs and cats.**
 
 <h3 align="left">Connect with me:</h3>
