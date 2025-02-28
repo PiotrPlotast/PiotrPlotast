@@ -25,7 +25,6 @@ Hello, my name is Piotr. I'm 19 years old, but my passion for computers and prog
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/pietrell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pietrell" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/piotr płotast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piotr płotast" height="30" width="40" /></a>
 <a href="https://discord.gg/pietrell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pietrell" height="30" width="40" /></a>
 </p>
